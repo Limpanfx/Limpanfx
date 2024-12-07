@@ -1,3 +1,3 @@
 - 👀 I enjoy the gym
-- 📫 Reach me on discord, Limpan002s or Limpan002 where I am less active
+- 📫 Reach me on discord, Limpan002s
 - 📖 About me: https://guns.lol/Limpan
