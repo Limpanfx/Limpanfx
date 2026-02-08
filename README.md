@@ -9,7 +9,3 @@
 
 - **Languages:** Python, Lua, C#
 - **Tools:** Git, VS Code 
-
-## 📈 GitHub Stats
-
-![Limpanfx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Limpanfx&show_icons=true&theme=radical)
