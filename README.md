@@ -6,6 +6,8 @@
 - 🔗 About me: [Guns.lol](https://guns.lol/Limpan)
 
 ## 🛠️ Technologies & Tools
-
 - **Languages:** Python, Lua, Luau, C#, HTML
-- **Tools:** Git, VS Code 
+- **Tools:** Git, VS Code
+  
+## Stats
+- **Streak:** [here](https://streak-stats.demolab.com?user=Limpanfx&theme=default&hide_border=true).
