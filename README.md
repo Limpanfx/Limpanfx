@@ -8,5 +8,5 @@
 - **Languages:** Python, Lua, Luau, C#, HTML
 - **Tools:** Git, VS Code
   
-## Statistics
+## 📊 Statistics
 - 🔥 **Streak:** [here](https://streak-stats.demolab.com?user=Limpanfx&theme=default&hide_border=true).
