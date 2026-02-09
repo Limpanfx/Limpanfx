@@ -7,5 +7,5 @@
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, Lua, C#
+- **Languages:** Python, Lua, C#, HTML
 - **Tools:** Git, VS Code 
