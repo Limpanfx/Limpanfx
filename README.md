@@ -1,6 +1,6 @@
 ## 🌟 About Me
 
-- 🔭 I’m currently working on creating scripts for the [scripts-repository](https://github.com/Limpanfx/Scripts-Repository).
+- 🔭 Old projects removed. I’m currently working on creating scripts for the [scripts-repository](https://github.com/Limpanfx/Scripts-Repository).
 - 📫 How to reach me: [Discord](https://discord.com/users/998734989279633438)
 - 🔗 About me: [Guns.lol](https://guns.lol/Limpan)
 
